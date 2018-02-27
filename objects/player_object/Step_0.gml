@@ -1,7 +1,7 @@
 
 
 
-var walking_speed = 8;
+var walking_speed = 12;
 
 hspeed = 0;
 
